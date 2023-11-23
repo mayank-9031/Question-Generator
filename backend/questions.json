@@ -1,0 +1,24 @@
+[
+  {"question": "What is the speed of light?", "subject": "Physics", "topic": "Waves", "difficulty": "Easy", "marks": 5},
+  {"question": "Explain Newton's Second Law of Motion.", "subject": "Physics", "topic": "Dynamics", "difficulty": "Medium", "marks": 10},
+  {"question": "Describe the process of photosynthesis.", "subject": "Biology", "topic": "Plant Biology", "difficulty": "Easy", "marks": 5},
+  {"question": "What is the significance of Mendel's experiments?", "subject": "Biology", "topic": "Genetics", "difficulty": "Hard", "marks": 15},
+  {"question": "Solve the integral of sin(x) dx.", "subject": "Mathematics", "topic": "Calculus", "difficulty": "Medium", "marks": 10},
+  {"question": "Prove Pythagoras Theorem.", "subject": "Mathematics", "topic": "Geometry", "difficulty": "Easy", "marks": 5},
+  {"question": "Discuss the causes of World War I.", "subject": "History", "topic": "World Wars", "difficulty": "Medium", "marks": 10},
+  {"question": "Explain the key principles of Object-Oriented Programming.", "subject": "Computer Science", "topic": "Programming Concepts", "difficulty": "Hard", "marks": 15},
+  {"question": "What are the main components of a cell?", "subject": "Biology", "topic": "Cell Biology", "difficulty": "Easy", "marks": 5},
+  {"question": "Define and give examples of renewable energy sources.", "subject": "Environmental Science", "topic": "Energy Resources", "difficulty": "Medium", "marks": 10},
+  {"question": "Analyze the impact of globalization on emerging economies.", "subject": "Economics", "topic": "Global Economy", "difficulty": "Hard", "marks": 15},
+  {"question": "Describe the theory of relativity.", "subject": "Physics", "topic": "Theoretical Physics", "difficulty": "Hard", "marks": 15},
+  {"question": "What is the role of DNA in genetic inheritance?", "subject": "Biology", "topic": "Genetics", "difficulty": "Medium", "marks": 10},
+  {"question": "Explain the concept of elasticity in economics.", "subject": "Economics", "topic": "Microeconomics", "difficulty": "Medium", "marks": 10},
+  {"question": "Discuss the main events of the French Revolution.", "subject": "History", "topic": "European History", "difficulty": "Medium", "marks": 10},
+  {"question": "What are the basic concepts of cloud computing?", "subject": "Computer Science", "topic": "Cloud Computing", "difficulty": "Easy", "marks": 5},
+  {"question": "Explain the process of cellular respiration.", "subject": "Biology", "topic": "Cell Biology", "difficulty": "Medium", "marks": 10},
+  {"question": "Describe the principles of sustainable development.", "subject": "Environmental Science", "topic": "Sustainability", "difficulty": "Medium", "marks": 10},
+  {"question": "What is the significance of the Magna Carta in history?", "subject": "History", "topic": "Medieval History", "difficulty": "Easy", "marks": 5},
+  {"question": "Explain the functions of different types of financial markets.", "subject": "Economics", "topic": "Finance", "difficulty": "Hard", "marks": 15}
+]
+
+
